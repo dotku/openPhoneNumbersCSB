@@ -1,2 +1,0 @@
-# openPhoneNumbersCSB
-Created with CodeSandbox
